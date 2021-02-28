@@ -10,3 +10,6 @@ title{
     padding: 5px;
     padding-bottom: 0rem;
 }
+p {
+    font-weight: bold;
+}
