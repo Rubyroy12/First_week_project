@@ -33,3 +33,6 @@ span{
 title{
     border: inset;
 }
+h3{
+    text-emphasis: unset;
+}
