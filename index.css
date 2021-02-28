@@ -8,7 +8,8 @@ h1{
 }
 title{
     padding: 5px;
-    padding-bottom: 0rem;
+    padding-bottom: 0rem
+
 }
 p {
     font-weight: bold;
@@ -22,4 +23,7 @@ div{
     
 ul{
 text-align: initial-letter: ;
+}
+ul{
+    text-align: initial;
 }
