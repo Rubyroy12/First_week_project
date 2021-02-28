@@ -36,3 +36,6 @@ title{
 h3{
     text-emphasis: unset;
 }
+body{
+    image-resolution: center;
+}
