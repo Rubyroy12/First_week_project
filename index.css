@@ -27,3 +27,9 @@ text-align: initial-letter: ;
 ul{
     text-align: initial;
 }
+span{
+    text-align: center;
+}
+title{
+    border: inset;
+}
